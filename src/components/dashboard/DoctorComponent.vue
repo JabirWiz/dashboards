@@ -5,5 +5,16 @@
     <p class="my-2 text-grey">Doctor</p>
     <p class="mx-auto my-4 text-grey" style="max-width: 300px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in arcu turpis. Nunc</p>
     <button class="px-4 py-2 rounded" style="background: rgb(205.6, 235, 238.2); color: #089bab;">Assign</button>
+
+    <div class="d-flex mt-6">
+      <div class="w-100">
+        <h3>4500</h3>
+        <p class="text-grey">Operations</p>
+      </div>
+      <div class="w-100 border-s border-success">
+        <h3>3.9</h3>
+        <p class="text-grey">Medical Rating</p>
+      </div>
+    </div>
   </div>
 </template>

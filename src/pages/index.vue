@@ -29,7 +29,7 @@ import HealthCurve from '@/components/dashboard/HealthCurve.vue';
         <v-row>
           <v-col>
             <v-sheet>
-              <v-calendar ></v-calendar>
+              <v-calendar color="secondary" ></v-calendar>
             </v-sheet>
           </v-col>
         </v-row>
